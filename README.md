@@ -1,7 +1,7 @@
 # computer-modern-web-font
 The Computer Modern LaTeX font for the web
 
-This is a fork of [Dreampulse](https://github.com/dreampulse/computer-modern-web-font)'s excellent and much appreciated repo. I've added WOFF2 files and moved some things around.
+This is a fork of [Dreampulse](https://github.com/BorisAnthony/computer-modern-web-font)'s excellent and much appreciated repo. I've added WOFF2 files and moved some things around.
 
 ## Example
 Take a look at this [example.html](https://cdn.rawgit.com/BorisAnthony/computer-modern-web-font/master/example.html).
