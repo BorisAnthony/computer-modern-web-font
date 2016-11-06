@@ -2,6 +2,7 @@
 	font-family: 'Computer Modern Classical Serif Italic';
 	src: url('cmunci.eot');
 	src: url('cmunci.eot?#iefix') format('embedded-opentype'),
+		 url('cmunci.woff2') format('woff2'),
 		 url('cmunci.woff') format('woff'),
 		 url('cmunci.ttf') format('truetype'),
 		 url('cmunci.svg#cmunci') format('svg');

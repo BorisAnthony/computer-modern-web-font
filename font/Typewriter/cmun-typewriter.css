@@ -2,6 +2,8 @@
 	font-family: 'Computer Modern Typewriter';
 	src: url('cmuntt.eot');
 	src: url('cmuntt.eot?#iefix') format('embedded-opentype'),
+		 url('cmuntt.woff2') format('woff2'),
+		 url('cmuntt.woff2') format('woff2'),
 		 url('cmuntt.woff') format('woff'),
 		 url('cmuntt.ttf') format('truetype'),
 		 url('cmuntt.svg#cmuntt') format('svg');
@@ -14,6 +16,8 @@
 	font-family: 'Computer Modern Typewriter';
 	src: url('cmuntb.eot');
 	src: url('cmuntb.eot?#iefix') format('embedded-opentype'),
+		 url('cmuntb.woff2') format('woff2'),
+		 url('cmuntb.woff2') format('woff2'),
 		 url('cmuntb.woff') format('woff'),
 		 url('cmuntb.ttf') format('truetype'),
 		 url('cmuntb.svg#cmuntb') format('svg');
@@ -26,6 +30,8 @@
 	font-family: 'Computer Modern Typewriter';
 	src: url('cmunit.eot');
 	src: url('cmunit.eot?#iefix') format('embedded-opentype'),
+		 url('cmunit.woff2') format('woff2'),
+		 url('cmunit.woff2') format('woff2'),
 		 url('cmunit.woff') format('woff'),
 		 url('cmunit.ttf') format('truetype'),
 		 url('cmunit.svg#cmunit') format('svg');
@@ -38,6 +44,8 @@
 	font-family: 'Computer Modern Typewriter';
 	src: url('cmuntx.eot');
 	src: url('cmuntx.eot?#iefix') format('embedded-opentype'),
+		 url('cmuntx.woff2') format('woff2'),
+		 url('cmuntx.woff2') format('woff2'),
 		 url('cmuntx.woff') format('woff'),
 		 url('cmuntx.ttf') format('truetype'),
 		 url('cmuntx.svg#cmuntx') format('svg');

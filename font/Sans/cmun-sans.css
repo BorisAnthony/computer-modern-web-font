@@ -2,6 +2,7 @@
 	font-family: 'Computer Modern Sans';
 	src: url('cmunss.eot');
 	src: url('cmunss.eot?#iefix') format('embedded-opentype'),
+		 url('cmunss.woff2') format('woff2'),
 		 url('cmunss.woff') format('woff'),
 		 url('cmunss.ttf') format('truetype'),
 		 url('cmunss.svg#cmunss') format('svg');
@@ -14,6 +15,7 @@
 	font-family: 'Computer Modern Sans';
 	src: url('cmunsx.eot');
 	src: url('cmunsx.eot?#iefix') format('embedded-opentype'),
+		 url('cmunsx.woff2') format('woff2'),
 		 url('cmunsx.woff') format('woff'),
 		 url('cmunsx.ttf') format('truetype'),
 		 url('cmunsx.svg#cmunsx') format('svg');
@@ -26,6 +28,7 @@
 	font-family: 'Computer Modern Sans';
 	src: url('cmunsi.eot');
 	src: url('cmunsi.eot?#iefix') format('embedded-opentype'),
+		 url('cmunsi.woff2') format('woff2'),
 		 url('cmunsi.woff') format('woff'),
 		 url('cmunsi.ttf') format('truetype'),
 		 url('cmunsi.svg#cmunsi') format('svg');
@@ -38,6 +41,7 @@
 	font-family: 'Computer Modern Sans';
 	src: url('cmunso.eot');
 	src: url('cmunso.eot?#iefix') format('embedded-opentype'),
+		 url('cmunso.woff2') format('woff2'),
 		 url('cmunso.woff') format('woff'),
 		 url('cmunso.ttf') format('truetype'),
 		 url('cmunso.svg#cmunso') format('svg');
