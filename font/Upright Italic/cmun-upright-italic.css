@@ -2,6 +2,7 @@
 	font-family: 'Computer Modern Upright Italic';
 	src: url('cmunui.eot');
 	src: url('cmunui.eot?#iefix') format('embedded-opentype'),
+		 url('cmunui.woff2') format('woff2'),
 		 url('cmunui.woff') format('woff'),
 		 url('cmunui.uif') format('truetype'),
 		 url('cmunui.svg#cmunui') format('svg');

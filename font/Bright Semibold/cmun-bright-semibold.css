@@ -2,6 +2,7 @@
 	font-family: 'Computer Modern Bright Semibold';
 	src: url('cmunbsr.eot');
 	src: url('cmunbsr.eot?#iefix') format('embedded-opentype'),
+		 url('cmunbsr.woff2') format('woff2'),
 		 url('cmunbsr.woff') format('woff'),
 		 url('cmunbsr.ttf') format('truetype'),
 		 url('cmunbsr.svg#cmunbsr') format('svg');
@@ -13,6 +14,7 @@
 	font-family: 'Computer Modern Bright Semibold';
 	src: url('cmunbso.eot');
 	src: url('cmunbso.eot?#iefix') format('embedded-opentype'),
+		 url('cmunbso.woff2') format('woff2'),
 		 url('cmunbso.woff') format('woff'),
 		 url('cmunbso.ttf') format('truetype'),
 		 url('cmunbso.svg#cmunbso') format('svg');
