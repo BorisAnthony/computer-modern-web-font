@@ -3,6 +3,10 @@ The Computer Modern LaTeX font for the web
 
 This is a fork of [Dreampulse](https://github.com/BorisAnthony/computer-modern-web-font)'s excellent and much appreciated repo. I've added WOFF2 files and moved some things around.
 
+## To do
+* Make a fancy samples page.
+* Add "Serif Roman Bold Nonextended" and "Typewriter Text Oblique."
+
 ## Example
 Take a look at this [example.html](https://cdn.rawgit.com/BorisAnthony/computer-modern-web-font/master/example.html).
 
