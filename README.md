@@ -12,7 +12,7 @@ Take a look at this [example.html](https://cdn.rawgit.com/BorisAnthony/computer-
 
 ## Usage
 
-Insert the `https://cdn.rawgit.com/dreampulse/computer-modern-web-font/master/fonts.css` css-stylesheet into your html header.
+Insert the `https://cdn.rawgit.com/BorisAnthony/computer-modern-web-font/master/fonts.css` css-stylesheet into your html header.
 
 ```html
 <head>
